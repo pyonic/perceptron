@@ -1,7 +1,7 @@
 /*
     Author: @pyonic
     Neuron.Js -> Multi layer Perceptron
-    Network contains 3 hidden layers
+    Network contains 5 hidden layers
 */
 
 function sigmoid(x) {
