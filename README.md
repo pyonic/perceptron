@@ -11,3 +11,5 @@ netw.findErrors(right_answers)
 //Correct the weights
 netw.updateWeights()
 // And so on in a loop until the network is trained)
+
+Details: https://telegra.ph/Pervye-shagi-k-Nejrosetyam-01-25
